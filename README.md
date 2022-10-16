@@ -1,4 +1,10 @@
 
+```bash
+support :
+1 - mediana sevice
+```
+
+
 ## create .env file in root and add this lines
 
 ```bash
