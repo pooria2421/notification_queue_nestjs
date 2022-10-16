@@ -1,4 +1,17 @@
 
+## create .env file in root and add this lines
+
+```bash
+MedianaToken=''
+BaseNumber=''
+Uname=''
+Pass=''
+patternConfirm=''
+url=''
+```
+
+
+
 ## Running the app
 
 ```bash
